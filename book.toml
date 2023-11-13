@@ -1,0 +1,12 @@
+[book]
+title = "Rocket Pool Book - Community Edition"
+authors = ["Patches.eth"]
+language = "en"
+multilingual = false
+src = "src"
+
+[output.html]
+default-theme = "navy"
+
+[output.html.print]
+enable = false

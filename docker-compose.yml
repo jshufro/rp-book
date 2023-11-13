@@ -1,0 +1,16 @@
+version: "3"
+services:
+  mdbook-serve:
+    image: rescue-ui-mdbook:local
+    build: .
+    volumes:
+      - .:/book:ro
+    ports:
+      - 3000:3000
+    command:
+      - serve
+      - -n
+      - 0.0.0.0
+      - /book
+      - -d
+      - /tmp
