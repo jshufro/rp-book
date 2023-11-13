@@ -12,7 +12,7 @@ Resources on the World Wide Web.
 
 </center>
 
-The official website where you can stake ETH for rETH, incrase your node's RPL stake, migrate RPLv1 to RPLv2, or update your node's withdrawal address.
+The official website where you can stake ETH for rETH, increase your node's RPL stake, migrate RPLv1 to RPLv2, or update your node's withdrawal address.
 
 ---
 
