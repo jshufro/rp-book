@@ -20,3 +20,4 @@ jobs:
         run: |
           sort --version
           LC_COLLATE='en_US.UTF-8' sh -c "cat wordlist.txt | sort -c"
+          [ -z "$(uniq -D wordlist.txt)" ]
