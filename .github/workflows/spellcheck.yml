@@ -1,4 +1,4 @@
-name: Spellcheck
+name: Spellcheck and Alphabetical
 on:
   pull_request:
     branches: ["master"]
@@ -16,3 +16,8 @@ jobs:
         uses: rojopolis/spellcheck-github-actions@0.34.0
         with:
           config_path: spellcheck.yaml
+      - name: Ensure wordlist is alphabetized
+        run: |
+          sort --version
+          LC_COLLATE='en_US.UTF-8' sh -c "cat wordlist.txt | sort -c"
+          [ -z "$(uniq -D wordlist.txt)" ]
