@@ -1,5 +1,6 @@
 Analytics
 blockchain
+Cayos
 DAO
 dmccartney
 drworm
@@ -10,6 +11,7 @@ Ethereum
 ethfinance
 hanniabu
 html
+LEB
 localhost
 mdbook
 minipool
@@ -34,6 +36,7 @@ sprocketpool
 Sprocketpool
 Stakers
 txt
+USD
 Valdorff
 validators
 vfvm
@@ -42,3 +45,5 @@ waqwaqattack
 wordlist
 xrchz
 yml
+yogofubi
+yogofubi's

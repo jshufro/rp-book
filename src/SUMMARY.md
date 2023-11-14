@@ -19,6 +19,7 @@
 
 -----------
 # Node Operation
+- [Calculators](./node-operation/calculators.md)
 - [Customization Resources](./node-operation/customization.md)
 - [Indexers](./node-operation/indexers.md)
 - [Rewards Dashboards and Tools](./node-operation/rewards.md)
