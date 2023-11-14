@@ -29,5 +29,6 @@ Sprocketpool
 Stakers
 Valdorff
 vfvm
+Waq
 waqwaqattack
 xrchz
