@@ -1,4 +1,4 @@
-# Rocket Pool Calculators
+# Calculators
 
 There have been several calculators built for the Rocket Pool community.
 
