@@ -4,6 +4,18 @@
 
 <center>
 
+# [eth-docker](https://eth-docker.net/Support/Rocketpool/)
+
+![](../assets/eth-docker.png)
+
+</center>
+
+Guides on how to use Smartnode in conjunction with eth-docker in order to run solo validators with an RP node or vice versa.
+
+---
+
+<center>
+
 # [rocketarb](https://github.com/xrchz/rocketarb)
 
 ![](../assets/rocketarb.png)

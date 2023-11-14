@@ -4,6 +4,7 @@ DAO
 dmccartney
 drworm
 drworm's
+eth
 ETH
 Ethereum
 ethfinance
@@ -24,10 +25,12 @@ Rocketsweep
 rp
 RPL
 RPLv
+Smartnode
 splitter
 Sprocketpool
 Stakers
 Valdorff
+validators
 vfvm
 Waq
 waqwaqattack
