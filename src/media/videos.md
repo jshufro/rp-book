@@ -37,3 +37,15 @@ Rocket Pool's official YouTube channel with Community Call recordings.
 Educational videos and interviews with community members.
 
 ---
+
+<center>
+
+# [The Weekly Orbit](https://www.youtube.com/channel/UCVYW-Dg3Rw4ngScewiqCCSQ)
+
+![](../assets/the-weekly-orbit.png)
+
+</center>
+
+The Weekly Orbit is a Rocket Pool news, stats, and markets discussion show hosted by Pat and Waq.
+
+---
