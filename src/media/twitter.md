@@ -10,6 +10,7 @@
 
 ## Community
 
+* [Jasper](https://twitter.com/drjasper_eth)
 * [Rocket Fuel](https://twitter.com/waqwaqattack)
 * [Rocket Rescue Node](https://twitter.com/Rescue_Node)
 
