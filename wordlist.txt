@@ -28,6 +28,8 @@ Rocketscan
 rocketsplit
 Rocketsweep
 rp
+RPIP
+RPIPs
 RPL
 RPLv
 Smartnode
