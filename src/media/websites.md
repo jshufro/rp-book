@@ -26,8 +26,6 @@ The official website where you can stake ETH for rETH, increase your node's RPL 
 
 The official documentation, whether you need a detailed overview or staking guides. 
 
----
-
 <center>
 
 # [Rocket Pool Medium Articles](https://medium.com/rocket-pool)
@@ -37,5 +35,19 @@ The official documentation, whether you need a detailed overview or staking guid
 </center>
 
 The official Medium articles written by the Rocket Pool core team.
+
+---
+
+---
+
+<center>
+
+# [Rocket Pool University](https://rocketpooluniversity.xyz/)
+
+![](../assets/rocket-pool-university.png)
+
+</center>
+
+A mysterious physics whiz created this interactive learning resource.
 
 ---
