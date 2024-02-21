@@ -12,7 +12,7 @@ The Rocket Pool [Incentive Management Committee](https://rpips.rocketpool.net/RP
 
 </center>
 
-Members of the Rocket Pool community have put together this IMC impact trackings heet.
+Members of the Rocket Pool community have put together this IMC impact tracking dashboard.
 
 ---
 

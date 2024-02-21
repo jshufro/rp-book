@@ -2,6 +2,8 @@ Analytics
 blockchain
 Cayos
 DAO
+DAOs
+DeFi
 dmccartney
 drworm
 drworm's
@@ -15,11 +17,13 @@ html
 IMC
 LEB
 localhost
+LST
 LSTs
 mdbook
 minipool
 Minipools
 pDAO
+pDAO's
 peteris
 Ramana
 Reddit
@@ -34,6 +38,7 @@ rp
 RPIP
 RPIPs
 RPL
+rpldefi
 RPLv
 Smartnode
 splitter
