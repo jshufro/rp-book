@@ -9,6 +9,7 @@
 # Governance 
 - [Delegation](./governance/delegation.md)
 - [Discussion](./governance/discussion.md)
+- [GMC](./governance/gmc.md)
 - [RPIPs](./governance/rpips.md)
 - [Snapshot Votes](./governance/snapshot-votes.md)
 
