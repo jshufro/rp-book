@@ -18,7 +18,7 @@ A dashboard of all existing Rocket Pool Bounties.
 
 <center>
 
-# [GMC Treasury Sheet](https://docs.google.com/spreadsheets/d/1dMtHJ4sffBidSN5RphLYC9A5HrsRNqHfqLVn-nJR104/edit#gid=1908396259)
+# [GMC Tracking Sheet](https://docs.google.com/spreadsheets/d/1dMtHJ4sffBidSN5RphLYC9A5HrsRNqHfqLVn-nJR104/)
 
 ![](../assets/gmc-sheet.png)
 
