@@ -6,10 +6,16 @@
 - [Dune Analytics](./dune-analytics.md)
 
 -----------
+# DeFi
+- [rETH Opportunities](./defi/reth.md)
+
+-----------
 # Governance 
 - [Delegation](./governance/delegation.md)
 - [Discussion](./governance/discussion.md)
 - [GMC](./governance/gmc.md)
+- [IMC](./governance/imc.md)
+- [pDAO](./governance/pdao.md)
 - [RPIPs](./governance/rpips.md)
 - [Snapshot Votes](./governance/snapshot-votes.md)
 
