@@ -25,6 +25,7 @@ Minipools
 pDAO
 pDAO's
 peteris
+pix
 Ramana
 Reddit
 Reddit's
