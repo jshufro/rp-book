@@ -9,10 +9,13 @@ eth
 ETH
 Ethereum
 ethfinance
+GMC
 hanniabu
 html
+IMC
 LEB
 localhost
+LSTs
 mdbook
 minipool
 Minipools
