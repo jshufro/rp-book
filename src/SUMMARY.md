@@ -10,7 +10,7 @@
 - [rETH Opportunities](./defi/reth.md)
 
 -----------
-# Governance 
+# Governance
 - [Delegation](./governance/delegation.md)
 - [Discussion](./governance/discussion.md)
 - [GMC](./governance/gmc.md)
@@ -20,7 +20,7 @@
 - [Snapshot Votes](./governance/snapshot-votes.md)
 
 -----------
-# Media 
+# Media
 - [Twitter](./media/twitter.md)
 - [Videos](./media/videos.md)
 - [Websites](./media/websites.md)
@@ -30,6 +30,6 @@
 - [Calculators](./node-operation/calculators.md)
 - [Customization Resources](./node-operation/customization.md)
 - [Indexers](./node-operation/indexers.md)
+- [Relays](./node-operation/relays.md)
 - [Rewards Dashboards and Tools](./node-operation/rewards.md)
 - [Support](./node-operation/support.md)
-

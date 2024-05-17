@@ -20,6 +20,7 @@ localhost
 LST
 LSTs
 mdbook
+MEV
 minipool
 Minipools
 pDAO
@@ -45,6 +46,7 @@ Smartnode
 splitter
 sprocketpool
 Sprocketpool
+Staker
 Stakers
 txt
 USD
